@@ -1,0 +1,20 @@
+{
+  "name": "bot-discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "freeezaaaa",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "humanize-duration": "^3.27.0",
+    "moment": "^2.29.1",
+    "parse-duration": "^1.0.0"
+  },
+  "script" : {
+    "start": "node index.js"
+  }
+}

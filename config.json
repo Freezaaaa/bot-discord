@@ -1,0 +1,19 @@
+{
+    "token": "ODY3ODAyNDUwOTk5NjQwMDg0.YPmaAw.3mymCy1AXdtojchcieGYJTen9Rg",
+    "prefix": "!",
+    "reactionRole": {
+        "867505112666472518": {
+            "emojis": [{
+                "name": "✅",
+                "roles": "867813226620387338"
+            }]
+
+        }
+    },
+    "ticket": {
+        "category": "867881215931056148",
+        "roles": ["867302302616649739", "867302658934046791", "867506317824753664"]
+    },
+    "logs": "867895951138095124"
+}
+ 
